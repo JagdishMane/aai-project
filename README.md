@@ -18,19 +18,24 @@ By leveraging machine learning and time-series analysis, this project aims to su
 
 The Retail Inventory dataset contains detailed historical retail data collected from multiple store locations. It includes transaction-level records and is suitable for modeling and evaluating demand forecasting systems.
 
-### 🗃 Key Features
+### 🗃 Dataset Features
 
-- Date — Daily sales records
-
-- Store ID / Location — Identifier for retail outlets
-
-- Product Category / Type — Classification of items
-
-- SKU ID — Unique product identifier
-
-- Available Inventory — Stock level at the time of sale
-
-- Sales Quantity — Units sold per day
+- Date: Date of the record.
+- Store ID: Unique identifier for the store.
+- Product ID: Unique identifier for the product.
+- Category: Product category.
+- Region: Geographical region of the store.
+- Inventory Level: Units available in stock.
+- Units Sold: Units sold on that day.
+- Units Ordered: Units ordered for restocking.
+- Price: Product price.
+- Discount: Discount applied, if any.
+- Weather Condition: Weather on the day of the record.
+- Promotion: 1 if there was a promotion, 0 otherwise.
+- Competitor Pricing: Price of a similar product from a competitor.
+- Seasonality: Season (e.g., Winter, Spring).
+- Epidemic: 1 if an epidemic occurred, 0 otherwise.
+- Demand: Daily estimated demand for the product
 
 ### 📦 Dataset Size
 
