@@ -45,16 +45,6 @@ The Retail Inventory dataset contains detailed historical retail data collected 
 - Epidemic: 1 if an epidemic occurred, 0 otherwise.
 - Demand: Daily estimated demand for the product
 
-### Project Index
-|Sr.No|Project Task|Description|Project work|
-|---|---|---|---|
-|1|Describe the dataset |Review the [dataset](https://www.kaggle.com/datasets/atomicd/retail-store-inventory-and-demand-forecasting) from kaggle.com | <link> |
-|2|Data Cleaning and Prepartion|Prepare the dataset for the project| <link> |
-|3|Data Analysis|Perform statistical Analysis on the dataset | <link> |
-|4|Model Selection|Choose the suitable Machine learning Model for the project| <link> |
-|5|Modle Analysis| Train and Test the model for prediction | <link> |
-
-
 ## 🧠 Potential Methods & Tools
 
 - Time Series Analysis
