@@ -12,6 +12,14 @@ This project focuses on analyzing and forecasting retail store inventory and pro
 
 By leveraging machine learning and time-series analysis, this project aims to support data-driven decisions in supply chain and inventory planning.
 
+
+## 🎯 Project Objectives
+
+- Develop models to forecast short-term and long-term demand for retail products
+- Identify sales patterns and seasonal trends
+- Provide actionable insights to improve stock allocation and minimize wastage
+- Evaluate model performance using relevant forecasting metrics (e.g., RMSE, MAE)
+
 ## 📊 Dataset: Retail Inventory
 
 ### 🔍 Description
@@ -37,20 +45,11 @@ The Retail Inventory dataset contains detailed historical retail data collected 
 - Epidemic: 1 if an epidemic occurred, 0 otherwise.
 - Demand: Daily estimated demand for the product
 
-### 📦 Dataset Size
+### Project Index
+|Sr.No|Prject Task|Description|link|
+|---|---|---|---|
+|1|Describe the data|Read the data from kaggle.com|[dataset](https://www.kaggle.com/datasets/atomicd/retail-store-inventory-and-demand-forecasting)|
 
-- Variables: Multiple categorical and numerical variables
-
-- Granularity: Daily-level transactions across stores
-
-- Use Case: Inventory forecasting, sales trend analysis, supply chain optimization
-
-## 🎯 Project Objectives
-
-- Develop models to forecast short-term and long-term demand for retail products
-- Identify sales patterns and seasonal trends
-- Provide actionable insights to improve stock allocation and minimize wastage
-- Evaluate model performance using relevant forecasting metrics (e.g., RMSE, MAE)
 
 ## 🧠 Potential Methods & Tools
 
