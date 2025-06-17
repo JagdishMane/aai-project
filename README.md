@@ -46,9 +46,9 @@ The Retail Inventory dataset contains detailed historical retail data collected 
 - Demand: Daily estimated demand for the product
 
 ### Project Index
-|Sr.No|Prject Task|Description|link|
+|Sr.No|Project Task|Description|Project work|
 |---|---|---|---|
-|1|Describe the data|Read the data from kaggle.com|[dataset](https://www.kaggle.com/datasets/atomicd/retail-store-inventory-and-demand-forecasting)|
+|1|Describe the data|Review the [dataset](https://www.kaggle.com/datasets/atomicd/retail-store-inventory-and-demand-forecasting) from kaggle.com | <link> |
 
 
 ## 🧠 Potential Methods & Tools
