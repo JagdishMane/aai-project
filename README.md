@@ -48,7 +48,7 @@ The Retail Inventory dataset contains detailed historical retail data collected 
 ### Project Index
 |Sr.No|Project Task|Description|Project work|
 |---|---|---|---|
-|1|Describe the data|Review the [dataset](https://www.kaggle.com/datasets/atomicd/retail-store-inventory-and-demand-forecasting) from kaggle.com | <link> |
+|1|Describe the dataset |Review the [dataset](https://www.kaggle.com/datasets/atomicd/retail-store-inventory-and-demand-forecasting) from kaggle.com | <link> |
 |2|Data Cleaning and Prepartion|Prepare the dataset for the project| <link> |
 |3|Data Analysis|Perform statistical Analysis on the dataset | <link> |
 |4|Model Selection|Choose the suitable Machine learning Model for the project| <link> |
