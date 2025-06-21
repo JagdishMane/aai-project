@@ -22,9 +22,9 @@ The project successfully analyzed and forecasted product demand in retail stores
 
 The following individuals contributed to this project:
 
-  * [Jagdish Mane](https://www.google.com/search?q=https://www.linkedin.com/in/jagdish-mane/)
-  * [Sachine Shukla](https://www.google.com/search?q=https://www.linkedin.com/in/sks336/)
-  * [Hanmant Kattimani](https://www.google.com/search?q=https://www.linkedin.com/in/hanmant-kattimani-b8323741/)
+  * [Jagdish Mane](https://www.linkedin.com/in/jagdish-mane/)
+  * [Sachin Shukla](https://www.linkedin.com/in/sks336/)
+  * [Hanmant Kattimani](https://www.linkedin.com/in/hanmant-kattimani-b8323741/)
 
 ### References
 
