@@ -1,58 +1,33 @@
-# Retail Inventory Demand Forecasting
+## Retail Store Demand Forecasting
 
-## 📈 Project Overview
+This repository contains a Jupyter Notebook (`Retail_Inventory_Forcaste_J.ipynb`) detailing a project focused on analyzing and forecasting product demand in retail stores. The project aims to leverage historical sales data to uncover patterns and develop predictive models for accurate future demand estimation, thereby optimizing inventory management and enhancing overall store operations.
 
-This project focuses on analyzing and forecasting retail store inventory and product demand using historical sales data. The goal is to develop predictive models that accurately estimate future demand, which can significantly enhance:
+-----
 
-- Inventory management
 
-- Reduction of stockouts and overstocking
 
-- Operational efficiency across retail networks
+### Introduction
 
-By leveraging machine learning and time-series analysis, this project aims to support data-driven decisions in supply chain and inventory planning.
+This project defines the main goals and objectives of analyzing product demand to improve retail operations. Accurate demand forecasting is critical in retail to prevent issues like overstocking (which incurs storage costs and potential waste) and stockouts (leading to lost sales and reduced customer satisfaction). By improving forecasting accuracy, retailers can streamline inventory, minimize these problems, enhance operational efficiency, and ultimately boost sales and customer satisfaction. The project specifically aims to develop an XGBoost-based predictive regression model for forecasting product demand using historical sales and operational data.
 
-## 📊 Dataset: Retail Inventory
+### Dataset Overview
 
-### 🔍 Description
+The project utilizes a dataset from Kaggle.com: [Retail Store Inventory and Demand Forecasting](https://www.kaggle.com/datasets/atomicd/retail-store-inventory-and-demand-forecasting). The notebook reviews and utilizes this dataset for the forecasting task.
 
-The Retail Inventory dataset contains detailed historical retail data collected from multiple store locations. It includes transaction-level records and is suitable for modeling and evaluating demand forecasting systems.
+### Conclusion
 
-### 🗃 Key Features
+The project successfully analyzed and forecasted product demand in retail stores. The insights gained from uncovering patterns in past sales and the development of predictive models provide a foundation for data-driven decision-making. The accurate demand estimation facilitated by this project is intended to optimize inventory management, reduce instances of overstocking and stockouts, and enhance overall store operations, leading to improved sales and customer satisfaction.
 
-- Date — Daily sales records
+### Contributions
 
-- Store ID / Location — Identifier for retail outlets
+The following individuals contributed to this project:
 
-- Product Category / Type — Classification of items
+  * [Jagdish Mane](https://www.google.com/search?q=https://www.linkedin.com/in/jagdish-mane/)
+  * [Sachine Shukla](https://www.google.com/search?q=https://www.linkedin.com/in/sks336/)
+  * [Hanmant Kattimani](https://www.google.com/search?q=https://www.linkedin.com/in/hanmant-kattimani-b8323741/)
 
-- SKU ID — Unique product identifier
+### References
 
-- Available Inventory — Stock level at the time of sale
+  * Zhenzuo Zhu. (2025). Retail Store Inventory and Demand Forecasting [Data set]. `https://www.kaggle.com/datasets/atomicd/retail-store-inventory-and-demand-forecasting`
 
-- Sales Quantity — Units sold per day
-
-### 📦 Dataset Size
-
-- Variables: Multiple categorical and numerical variables
-
-- Granularity: Daily-level transactions across stores
-
-- Use Case: Inventory forecasting, sales trend analysis, supply chain optimization
-
-## 🎯 Project Objectives
-
-- Develop models to forecast short-term and long-term demand for retail products
-- Identify sales patterns and seasonal trends
-- Provide actionable insights to improve stock allocation and minimize wastage
-- Evaluate model performance using relevant forecasting metrics (e.g., RMSE, MAE)
-
-## 🧠 Potential Methods & Tools
-
-- Time Series Analysis
-- Machine Learning (Random Forest, XGBoost, LightGBM)
-- Python (Pandas, numpy, Scikit-learn, Prophet, TensorFlow/Keras)
-
-## 🚀 Outcome
-
-A robust, scalable demand forecasting framework that retailers can integrate into their inventory planning systems to optimize stock levels and enhance operational decisions.
+-----
